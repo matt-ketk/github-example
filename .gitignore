@@ -8,8 +8,8 @@ __pycache__/
 .ipynb_checkpoints
 
 # Environments
-.env
-.venv
+*.env
+*.venv
 env/
 venv/
 ENV/
@@ -17,11 +17,11 @@ env.bak/
 venv.bak/
 
 # Saved Figures
-.png
-.pdf
-.jpg
-.jpeg
-.fig
+*.png
+*.pdf
+*.jpg
+*.jpeg
+*.fig
 
 # Add your own:)
 
